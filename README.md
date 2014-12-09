@@ -5,7 +5,7 @@ Included is the CSS for the code in Code-Example.
 
 ==============
 
-/*FAQ PAGE
+/*FAQ PAGE*/
 #FAQHeader
 {
 	width:30vw;
@@ -37,5 +37,3 @@ Included is the CSS for the code in Code-Example.
 	border-radius:10px;
 	padding-left:5px;
 }
-
-*/
